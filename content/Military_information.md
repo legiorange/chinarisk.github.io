@@ -1,5 +1,5 @@
 ---
-title: "Military_information"
+title: "Military infor"
 date: 2022-07-26T02:51:15+08:00
 ---
 
